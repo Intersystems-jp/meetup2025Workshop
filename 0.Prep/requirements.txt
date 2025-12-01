@@ -1,0 +1,9 @@
+torch
+protobuf
+sentencepiece
+pillow
+transformers==4.49.0
+requests
+timm
+Flask
+sqlalchemy-iris
