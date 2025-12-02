@@ -85,12 +85,27 @@ Git をインストールされていない方は、ブラウザで[リポジト
 
 [Google Drive](https://drive.google.com/drive/my-drive) を開き、任意のディレクトリに移動し、対象ファイルをアップロードします。
 
+> 図例は、[2.VectorAsobo/VectorAsobo_mu2025.ipynb](/2.VectorAsobo/VectorAsobo_mu2025.ipynb) を使用しています。
+
 ![](/assets/GoogleDrive-upload.jpg)
 
-アップロードした notebook をダブルクリックし、Colab で開きます。
+<br>
+
+**✅過去、Colab で Notebook を開いたことがある方**は、アップロードした notebook をダブルクリックし、Colab で開きます。
 
 ![](/assets/GoogleDrive-OpenNotebook.jpg)
 
+<br>
+
+**✅初めて Colab を開く方**は、以下の手順で開きます。
+
+アップロードしたファイルを Colab で開くため、「アプリ追加」で `Colaboratory` を追加した後、開きます。
+
+![](/assets/Google-Colab-Add.jpg)
+
+`Colaboratory` を追加したら、再度 Notebook 右クリックし、[アプリで開く] > [`Google Colaboratory`] を指定して開きます。
+
+![](/assets/Google-Colab-Open.jpg)
 
 <br>
 以上でワークショップを進めるための準備は完了です！
