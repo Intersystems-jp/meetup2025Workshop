@@ -248,6 +248,14 @@ InterSystems アイコンをクリックし、`Classes > MeetUp2025 > Event.cls`
 ```
 do ##class(MeetUp2025.Event).createEvent()
 ```
+モデルのロードには少し時間がかかります。ロードが終了すると以下実行例のように `CLIP-Load完了：xxx` と表示されますのでしばらくお待ちください。また**ターミナルプロンプトは、EndEvent()メソッド実行まで戻りませんのでそのままの状態でご利用ください。**
+
+実行例）
+```
+USER>do ##class(MeetUp2025.Event).createEvent()
+CLIP-Load完了：15.034278
+
+```
 イベントを終了する場合は、別ターミナルから以下実行します。
 ```
 do ##class(MeetUp2025.Event).EndEvent()
