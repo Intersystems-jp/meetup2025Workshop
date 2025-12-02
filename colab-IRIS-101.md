@@ -1,6 +1,6 @@
 (1) [Google Drive](https://drive.google.com/) 上を右クリック > その他 > Google Colaboratory
  
-(2) タイトルを Untitled0.jpynb から、好きなものに変更します (naka.jpynbなど)
+(2) タイトルを Untitled0.ipynb から、好きなものに変更します (naka.ipynbなど)
   
 (3) 簡単な以下の 1行 Pythonコードを書いてみましょう
 ```
